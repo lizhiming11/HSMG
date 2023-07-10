@@ -7,3 +7,7 @@ binning outfile = $4
 metawrap assembly -1 $1 -2 $2  -o $3 -t 20 -m 2000
 
 metawrap binning --metabat2 -t 20 -m 2000 --run-checkm -a $3/final_assembly.fasta -o $4 $1 $2
+
+Identifying 16s sequences：
+
+barrnap --quiet high_genomics/$1.fa -o high_genomics_16s/$1_16.fa
