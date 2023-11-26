@@ -9,6 +9,9 @@ metawrap assembly -1 $1 -2 $2  -o $3 -t 20 -m 2000
 metawrap --metabat2 --maxbin2 --concoct -t 20 -m 2000 --run-checkm -a $3/final_assembly.fasta -o $4 $1 $2
 
 
+drep install : https://github.com/MrOlm/drep
+dRep compare ./dRep_$4/ -p 20 -pa 0.95 -sa 0.95 -g ./$4/*.fa > $4_compare.log
+
 gtdbtk annotation：
 gtdbtk identify --genome_dir genomics-dir --out_dir identify --extension fa --cpus 40
 gtdbtk align --identify_dir identify --out_dir align --cpus 40
