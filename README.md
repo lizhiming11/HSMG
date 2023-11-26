@@ -1,2 +1,1 @@
-# UHSG
-Unified human skin genome (UHSG) construction process and microbial genome analysis process.
+Program for the construction of HSMG and analysis scripts in A human skin microbiome reference catalog and the skin microbial landscape of plateau adults.
