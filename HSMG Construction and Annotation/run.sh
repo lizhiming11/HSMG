@@ -17,8 +17,6 @@ gtdbtk classify --genome_dir genomics-dir --align_dir align --out_dir classify -
 phylogenetic tree:
 iqtree2 -s gtdbtk.bac120.user_msa.fasta -m MFP
 
-card annotation:
-rgi main --input_sequence genome_dir/*.fa --output_file $1_card --input_type protein -a DIAMOND -n 20 --clean
 
 Functional annotation:
 python emapper.py -m diamond -i genome_dir/*.fa --output result -d bact --cpu 5
