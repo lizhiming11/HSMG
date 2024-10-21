@@ -1,0 +1,21 @@
+COG	type1	type2	num	color
+N	Cell motility	CELLULAR PROCESSES AND SIGNALING	247364	#eff3ff
+D	"Cell cycle control, cell division, chromosome partitioning"	CELLULAR PROCESSES AND SIGNALING	450684	#c6dbef
+V	Defense mechanisms	CELLULAR PROCESSES AND SIGNALING	414552	#9ecae1
+U	"Intracellular trafficking, secretion, and vesicular transport"	CELLULAR PROCESSES AND SIGNALING	576227	#6baed6
+O	"Posttranslational modification, protein turnover, chaperones"	CELLULAR PROCESSES AND SIGNALING	585945	#4292c6
+T	Signal transduction mechanisms	CELLULAR PROCESSES AND SIGNALING	957992	#2171b5
+M	Cell wall/membrane/envelope biogenesis	CELLULAR PROCESSES AND SIGNALING	1255159	#084594
+J	"Translation, ribosomal structure and biogenesis"	INFORMATION STORAGE AND PROCESSING	741751	#e5f5e0
+K	Transcription	INFORMATION STORAGE AND PROCESSING	1150033	#a1d99b
+L	"Replication, recombination and repair"	INFORMATION STORAGE AND PROCESSING	1541404	#31a354
+F	Nucleotide transport and metabolism	METABOLISM	342293	#fff5f0
+Q	"Secondary metabolites biosynthesis, transport and catabolism"	METABOLISM	458101	#fee0d2
+I	Lipid transport and metabolism	METABOLISM	553797	#fcbba1
+H	Coenzyme transport and metabolism	METABOLISM	578933	#fc9272
+C	Energy production and conversion	METABOLISM	778171	#fb6a4a
+G	Carbohydrate transport and metabolism	METABOLISM	977698	#ef3b2c
+P	Inorganic ion transport and metabolism	METABOLISM	1041950	#cb181d
+E	Amino acid transport and metabolism	METABOLISM	1179604	#99000d
+S	Function unknown	POORLY CHARACTERIZED	3446201	#bdbdbd
+unknow	No hit	POORLY CHARACTERIZED	22005480	#636363
